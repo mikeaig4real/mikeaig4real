@@ -19,7 +19,7 @@ jobs:
           github_user_name: mikeaig4real
           outputs: |
             dist/pacman-contribution-graph.svg
-            "dist/pacman-contribution-graph-dark.svg?palette=oceanic"
+            dist/pacman-contribution-graph-dark.svg?palette=oceanic
 
       - name: Commit and push the generated files
         run: |
