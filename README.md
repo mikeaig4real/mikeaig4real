@@ -40,6 +40,9 @@
   <a href="mailto:mikeaig4realonreal@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://my-portfolio-liart-nu-61.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
+</a>
 </div>
 
 ###
